@@ -26,7 +26,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 I use firebase to store the user data and use to authention.
 use context api to store the data and use all those data globally
 
-click here 👉
+click here 👉  https://shubham8170.github.io/Amazon_Clone/
 
 
 
